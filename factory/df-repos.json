@@ -1,0 +1,9 @@
+{
+	"name": "df-repos",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "658fcf1d-46fd-44ac-80c4-ef50d10cbfd5",
+		"tenantId": "9f37a392-f0ae-4280-9796-f1864a10effc"
+	}
+}
